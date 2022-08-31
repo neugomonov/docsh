@@ -11,4 +11,5 @@ export default NextAuth({
         }),
     ],
     adapter: FirebaseAdapter(db),
+    secret: process.env.NEXTAUTH_SECRET,
 });
