@@ -1,0 +1,17 @@
+@tailwind components;
+
+@layer components {
+    .option {
+        @apply cursor-pointer hover:bg-gray-100 transition duration-200 ease-out p-2 rounded-lg;
+    }
+}
+* {
+    -webkit-tap-highlight-color: transparent;
+}
+.h-18 {
+    height: 3.5rem /* >64px */;
+}
+html {
+    background: white;
+    color: black;
+}
