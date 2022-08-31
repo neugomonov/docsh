@@ -5,7 +5,7 @@ function Login() {
     return (
         <div className="flex flex-col items-center justify-center min-h-screen py-2">
             <Image
-                src="/../public/docs.png"
+                src="/images/docs.png"
                 height="300"
                 width="550"
                 objectFit="contain"

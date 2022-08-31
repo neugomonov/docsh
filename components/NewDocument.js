@@ -85,7 +85,7 @@ function NewDocument() {
                             onClick={() => setShowModal(true)}
                         >
                             <div className=" relative h-52 w-40 border-2  hover:border-blue-700">
-                                <Image src="/../public/new.png" layout="fill" />
+                                <Image src="/images/new.png" layout="fill" />
                             </div>
                             <p className="ml-2 mt-2 font-semibold text-sm text-gray-700">
                                 Blank
