@@ -1,4 +1,8 @@
 {
+  "name": "docsh",
+  "homepage": "https://docsh.vercel.app",
+  "version": "1.0.0",
+  "description": "docsh is an online word processor",
   "private": true,
   "scripts": {
     "dev": "next dev",

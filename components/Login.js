@@ -15,7 +15,7 @@ function Login() {
                 color="blue"
                 buttonType="filled"
                 ripple="light"
-                onClick={signIn}
+                onClick={() => signIn()}
             >
                 Login
             </Button>
