@@ -6,19 +6,21 @@
 
 Docsh is an online word processor.
 
-	
 <h2>Screenshots</h2>
 
 </div>
 
-🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼 🖼   
+![flow](/flow.gif)
+<img src="login.png" width="333"/>
+<img src="docsh.png" width="333"/>
+<img src="document.png" width="333"/>
 
 ## Tech Stack
 
-- [React](https://reactjs.org/)
-- [Next.js](https://nextjs.org/)
-- [Material Tailwind](https://www.material-tailwind.com/)
-- [Draft.js](https://draftjs.org/)
-- [Firebase](https://firebase.google.com/)
+-   [React](https://reactjs.org/)
+-   [Next.js](https://nextjs.org/)
+-   [Material Tailwind](https://www.material-tailwind.com/)
+-   [Draft.js](https://draftjs.org/)
+-   [Firebase](https://firebase.google.com/)
 
 <b> 📄 </b>
