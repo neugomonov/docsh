@@ -11,9 +11,9 @@ Docsh is an online word processor.
 </div>
 
 ![flow](/flow.gif)
-<img src="login.png" width="333"/>
-<img src="docsh.png" width="333"/>
-<img src="document.png" width="333"/>
+<img src="login.png" width="300"/>
+<img src="docsh.png" width="300"/>
+<img src="document.png" width="300"/>
 
 ## Tech Stack
 
