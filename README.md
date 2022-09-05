@@ -2,8 +2,6 @@
 	<h1><a href="https://docsh.vercel.app/">Docsh</a></h1>
 	<img src="public/images/docs.png" alt="Logo" width="200"/>
 
-<h2>Information</h1>
-
 Docsh is an online word processor.
 
 <h2>Screenshots</h2>
@@ -23,4 +21,4 @@ Docsh is an online word processor.
 -   [Draft.js](https://draftjs.org/)
 -   [Firebase](https://firebase.google.com/)
 
-<b> 📄 </b>
+<a href="https://docsh.vercel.app/">📄</a>
